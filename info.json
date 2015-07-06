@@ -1,0 +1,9 @@
+{
+	"name":"Factorio-Resources",
+	"author":"Dysoch, MagicLegend, Odin_Spain, McGuten, bobingabout",
+	"version":"1.0.0",
+	"title":"Factorio-Resources",
+	"homepage":"https://github.com/Dysoch/Factorio-Resources",
+	"description":"A mod which holds resources that will be used by DyTech, 5DIM and Bob's Modules!",
+	"dependencies": ["base"]
+}
