@@ -7,13 +7,18 @@ How to use this?
 
 start by editing you info.json:
 this line:
+
 "dependencies": ["base"]
+
 becomes:
+
 "dependencies": ["base", "Factorio-Resources"]
 
 now start changing recipes:
 in your recipes, use the following items (internal names):
+
 ardite-plate, cobalt-plate, tin-plate, zinc-plate, gold-plate, silver-plate, tungsten-plate, lead-plate
+
 if you wanna use the ores, replace the -plate with -ore.
 
 Want to use the technologies to unlock something?
