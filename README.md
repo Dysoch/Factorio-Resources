@@ -18,7 +18,9 @@ if you wanna use the ores, replace the -plate with -ore.
 
 Want to use the technologies to unlock something?
 here is the simple code that needs to be in .lua file:
+
 table.insert(data.raw["technology"]["NAME-processing"].effects,{type = "unlock-recipe",recipe = "RECIPE-NAME"})
+
 replace NAME with the ore you want to use (for example, gold) and replace RECIPE-NAME with your internal recipe name
 
 Have fun,
